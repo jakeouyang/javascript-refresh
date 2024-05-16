@@ -1,0 +1,23 @@
+{
+  "name": "javascript-refresher-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "util.js": "^0.0.0",
+    "utils.js": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.24.5",
+    "typescript": "5.4.5"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
